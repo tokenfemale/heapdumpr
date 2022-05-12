@@ -7,6 +7,8 @@ Why? This allows you to easily write a script that is executed when an OOM occur
 *How to launch*
 
 From the root directory run `./gradlew bootRun`
+Visit http://localhost:8080/heap-dump
+This will only execute the script once even though it will generate many OOMs, not sure why.
 
 *How to modify configuration*
 
