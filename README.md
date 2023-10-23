@@ -14,3 +14,4 @@ This will only execute the script once even though it will generate many OOMs, n
 
 The command line configuration can be found [here](https://github.com/tokenfemale/heapdumpr/blob/e97e306aa951238a4be67177c47562a92ae71dd7/build.gradle#L26)
 
+test
